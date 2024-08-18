@@ -7,6 +7,7 @@ aliases:
   - K.D. Reddy
   - K Reddy
 links:
+  email: krishnareddy@usf.edu
   twitter: firewhenreddy
   orcid: 0000-0002-0475-8375
 ---
