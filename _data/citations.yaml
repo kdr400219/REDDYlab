@@ -9,27 +9,11 @@
   - Amanda J Scopelliti
   - Olga Boudker
   publisher: The Journal of general physiology
-  date: '2020-12-04'
+  date: '2022-04-22'
   link: https://www.ncbi.nlm.nih.gov/pubmed/35452090
   orcid: 0000-0002-0475-8375
   plugin: sources.py
   file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
 - id: pmid:27498722
   title: Physicochemical sequence characteristics that influence S-palmitoylation
     propensity.
