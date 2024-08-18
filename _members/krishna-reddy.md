@@ -1,6 +1,6 @@
 ---
 name: Krishna Reddy
-image: images/KR.jpg
+image: images/kdr2001.jpg
 role: pi
 affiliation: University of South Florida
 aliases:
