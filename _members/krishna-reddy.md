@@ -1,11 +1,11 @@
 ---
-name: Krishna Reddy
+name: Krishna Reddy, Ph.D.
 image: images/kdr2001.jpg
 role: pi
 affiliation: University of South Florida
 aliases:
   - K.D. Reddy
-  - K Reddy
+  - KD Reddy
 links:
   email: krishnareddy@usf.edu
   twitter: firewhenreddy
