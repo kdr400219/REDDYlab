@@ -7,7 +7,7 @@ aliases:
   - K.D. Reddy
   - K Reddy
 links:
-  twitter: https://x.com/firewhenreddy
+  twitter: firewhenreddy
   orcid: 0000-0002-0475-8375
 ---
 
