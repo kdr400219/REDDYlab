@@ -1,14 +1,14 @@
 ---
-name: Jane Smith
-image: images/photo.jpg
+name: Krishna Reddy
+image: images/KR.jpg
 role: pi
-affiliation: University of Colorado
+affiliation: University of South Florida
 aliases:
-  - J. Smith
-  - J Smith
+  - K.D. Reddy
+  - K Reddy
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  twitter: https://x.com/firewhenreddy
+  orcid: 0000-0002-0475-8375
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
