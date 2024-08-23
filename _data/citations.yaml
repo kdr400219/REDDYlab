@@ -1,5 +1,38 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2023.12.03.569786
+  title: Evolutionary analysis reveals the origin of sodium coupling in glutamate
+    transporters
+  authors:
+  - Krishna D. Reddy
+  - Burha Rasool
+  - Farideh Badichi Akher
+  - "Nemanja Kutle\u0161i\u0107"
+  - Swati Pant
+  - Olga Boudker
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-12-04'
+  link: https://doi.org/gt7qrc
+  orcid: 0000-0002-0475-8375
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/jacs.3c01003
+  title: Environmentally Ultrasensitive Fluorine Probe to Resolve Protein Conformational
+    Ensembles by <sup>19</sup>F NMR and Cryo-EM
+  authors:
+  - Yun Huang
+  - Krishna D. Reddy
+  - Clay Bracken
+  - Biao Qiu
+  - Wenhu Zhan
+  - David Eliezer
+  - Olga Boudker
+  publisher: Journal of the American Chemical Society
+  date: '2023-04-06'
+  link: https://doi.org/gt7qrd
+  orcid: 0000-0002-0475-8375
+  plugin: orcid.py
+  file: orcid.yaml
 - id: pmid:35452090
   title: The archaeal glutamate transporter homologue GltPh shows heterogeneous substrate
     binding.
