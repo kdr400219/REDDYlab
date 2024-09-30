@@ -1,8 +1,46 @@
+# DO NOT EDIT, GENERATED AUTOMATICALLY
+
+- id: doi:10.1101/2023.12.03.569786
+  title: Evolutionary analysis reveals the origin of sodium coupling in glutamate
+    transporters
+  authors:
+  - '**Krishna D Reddy#**'
+  - Burha Rasool
+  - Farideh Badichi Akher
+  - "Nemanja Kutle\u0161i\u0107"
+  - Swati Pant
+  - Olga Boudker#
+  publisher: bioRxiv
+  date: '2023-12-04'
+  link: https://doi.org/gt7qrc
+  orcid: 0000-0002-0475-8375
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/jacs.3c01003
+  title: Environmentally Ultrasensitive Fluorine Probe to Resolve Protein Conformational
+    Ensembles by <sup>19</sup>F NMR and Cryo-EM
+  authors:
+  - Yun Huang
+  - '**Krishna D Reddy**'
+  - Clay Bracken
+  - Biao Qiu
+  - Wenhu Zhan
+  - David Eliezer
+  - Olga Boudker
+  publisher: Journal of the American Chemical Society
+  date: '2023-04-06'
+  link: https://doi.org/gt7qrd
+  orcid: 0000-0002-0475-8375
+  plugin: orcid.py
+  file: orcid.yaml
+  buttons:
+    - type: preprint
+      link: https://www.biorxiv.org/content/10.1101/2022.03.29.486269v3
 - id: pmid:35452090
   title: The archaeal glutamate transporter homologue GltPh shows heterogeneous substrate
     binding.
   authors:
-  - "**Krishna D Reddy**"#
+  - '**Krishna D Reddy#**'
   - Didar Ciftci
   - Amanda J Scopelliti
   - Olga Boudker#
@@ -10,3 +48,87 @@
   date: '2022-04-22'
   link: https://www.ncbi.nlm.nih.gov/pubmed/35452090
   orcid: 0000-0002-0475-8375
+  plugin: sources.py
+  file: sources.yaml
+  buttons:
+    - type: preprint
+      link: https://www.biorxiv.org/content/10.1101/2021.07.08.451670v2
+- id: pmid:27498722
+  title: Physicochemical sequence characteristics that influence S-palmitoylation
+    propensity.
+  authors:
+  - '**Krishna D Reddy^**'
+  - Jashwanth Malipeddi^
+  - Shelly DeForte
+  - Vikas Pejaver
+  - Predrag Radivojac
+  - Vladimir N Uversky
+  - Robert J Deschenes
+  publisher: Journal of biomolecular structure & dynamics
+  date: '2016-08-07'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27498722
+  orcid: 0000-0002-0475-8375
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:27062995
+  title: Functional correlations of respiratory syncytial virus proteins to intrinsic
+    disorder.
+  authors:
+  - Jillian N Whelan^
+  - '**Krishna D Reddy^**'
+  - Vladimir N Uversky
+  - Michael N Teng
+  publisher: Molecular bioSystems
+  date: '2016-04-26'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27062995
+  orcid: 0000-0002-0475-8375
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:24811172
+  title: Mutations in the X-linked intellectual disability gene, zDHHC9, alter autopalmitoylation
+    activity by distinct mechanisms.
+  authors:
+  - David A Mitchell
+  - Laura D Hamel
+  - '**Krishna D Reddy**'
+  - Lynn Farh
+  - Logan M Rettew
+  - Phillip R Sanchez
+  - Robert J Deschenes
+  publisher: The Journal of biological chemistry
+  date: '2014-05-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24811172
+  orcid: 0000-0002-0475-8375
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:24549315
+  title: A putative role of the Sup35p C-terminal domain in the cytoskeleton organization
+    during yeast mitosis.
+  authors:
+  - Insung Na
+  - '**Krishna D Reddy**'
+  - Leonid Breydo
+  - Bin Xue
+  - Vladimir N Uversky
+  publisher: Molecular bioSystems
+  date: '2014-02-19'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24549315
+  orcid: 0000-0002-0475-8375
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:24252314
+  title: 'The crowd you''re in with: effects of different types of crowding agents
+    on protein aggregation.'
+  authors:
+  - Leonid Breydo
+  - '**Krishna D Reddy**'
+  - Alessandro Piai
+  - Isabella C Felli
+  - Roberta Pierattelli
+  - Vladimir N Uversky
+  publisher: Biochimica et biophysica acta
+  date: '2013-11-16'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24252314
+  orcid: 0000-0002-0475-8375
+  plugin: orcid.py
+  file: orcid.yaml

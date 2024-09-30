@@ -1,7 +1,7 @@
 ---
 ---
 
-# kdr400219DESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# Evolution and Engineering of Membrane Transport
 
 
 
@@ -11,7 +11,7 @@
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Cells require membrane transporters to perform continuous, selective movement of molecules across their membranes; this ‘out-of-equilibrium’ state maintains the homeostasis of various organic and inorganic substrates critical to life, including ions, nutrients, lipids, drugs, and numerous other signaling molecules. Transporters are intricate molecular machines with incredible functional diversity and plasticity, enabling cells to adapt to complex and ever-changing environments. We want to understand how these machines work.
 
 {%
   include button.html
@@ -34,7 +34,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+**Our ultimate goal is to be able to precisely control how transporters work, through either protein engineering or pharmacology.** We use a combination of bioinformatics, genomics, biochemistry, biophysics, and structural biology to understand the mechanics of membrane transport. 
 
 {%
   include button.html
@@ -59,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are a newly established lab that aims to foster a dynamic, inclusive, and collaborative environment where creativity and teamwork are encouraged. We prioritize mentorship, work-life balance, and creating a supportive environment for all team members. 
 
 {%
   include button.html

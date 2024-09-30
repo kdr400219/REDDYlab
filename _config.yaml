@@ -1,5 +1,5 @@
 # site properties and page defaults
-title: kdr400219DESCRIPTION=An engaging 1-3 sentence description of your lab.
+title: REDDY Lab
 subtitle: 
 description: 
 header: images/background.jpg
@@ -8,12 +8,10 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@kdr400219DESCRIPTION=An engaging 1-3 sentence description of your lab..com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: kdr400219DESCRIPTION=An engaging 1-3 sentence description of your lab.
-  twitter: kdr400219DESCRIPTION=An engaging 1-3 sentence description of your lab.
-  youtube: kdr400219DESCRIPTION=An engaging 1-3 sentence description of your lab.
+  email: krishnareddy@usf.edu
+  orcid: 0000-0002-0475-8375
+  google-scholar: DYpcik0AAAAJ
+  twitter: firewhenreddy
 
 ### jekyll settings
 

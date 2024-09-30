@@ -1,47 +1,27 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: How do transporters work?
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+  description: We use cryo-electron microscopy to visualize these molecular machines in action, taking structural snapshots along the transport cycle. Combined with biochemical, biophysical, and electrophysiological assays of transporter mechanisms, we can gain insights into transporter architecture, conformational states, substrate-binding sites, and drug-binding pockets.
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: Limitations of structure-function studies
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+  description: Subtle, allosteric changes in conformational dynamics and energetics - invisible in structural snapshots alone - can set critical functional properties, including substrate specificity and affinity, energy coupling, and transport rate. Our lack of understanding of these properties is a major bottleneck in understanding how transporters work.
 
-- title: Cool Tutorial
-  subtitle: a subtitle
+- title: Complementary methods to mine important features
+  group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
+  description: Our work aims to identify and zoom in on these key regulatory regions. We use computational and experimental methods to pinpoint the naturally occurring and engineered sequence variations that result in different functions. We then design experiments to contextualize these sequence variations to the transporter’s structure, function, and dynamics.
 
-- title: Cool Web App
-  subtitle: a subtitle
+- title: Reconstructing the evolution of diverse transporter functions
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+  description: We use computational phylogenetics to infer how transporter sequences evolved to have different functions. Then, we can reconstruct the amino acid sequences of ‘ancestral’ transporters, express and purify the engineered proteins in the lab, and experimentally connect these evolutionary sequence changes to the resulting structure-function changes.
 
-- title: Cool Web Server
-  subtitle: a subtitle
+- title: Comprehensively probing sequence-function landscapes of transporters
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+  description: We also develop high-throughput readouts of transporter function, enabling assessment of thousands to millions of individual transporter variants at a time. By systematically altering every site of the entire transporter sequence, we can guide the discovery of hidden regulatory features and engineer different functional properties.
+
+- title: Applying our insights to AI/ML
+  image: images/photo.jpg
+  description: A long-term goal of the lab is to leverage our insights into sequence-function relationships, combined with AlphaFold2 structural predictions, to inform machine learning models that connect sequence-structure-function. We envision this as complementary to experimental studies in understanding how transporters work.
+

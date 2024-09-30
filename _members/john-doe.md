@@ -1,9 +1,8 @@
 ---
 name: You?
 image: images/photo.jpg
-role: phd
 group: alum
 
 ---
 
-We are hiring at all levels! 
+We are hiring at all levels! Please contact [Krishna](mailto:krishnareddy@usf.edu) for potential opportunities in the lab.

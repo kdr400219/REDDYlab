@@ -2,26 +2,22 @@
 title: Projects
 nav:
   order: 2
-  tooltip: Software, datasets, and more
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-{% include tags.html tags="publication, resource, website" %}
+Our lab aims to understand the design principles of how membrane transporters work. We take inspiration from evolution, functional genomics, and data science; we then use these insights to drive our macromolecular structure-function studies. 
 
 {% include search-info.html %}
 
 {% include section.html %}
 
-## Featured
+## Our approach
 
 {% include list.html component="card" data="projects" filters="group: featured" %}
 
 {% include section.html %}
 
-## More
+## Projects in the lab
 
-{% include list.html component="card" data="projects" filters="group: " style="small" %}
+{% include list.html component="card" data="projects" filters="group: " %}
