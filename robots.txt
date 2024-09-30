@@ -1,1 +1,1 @@
-Sitemap: http://www.reddy-lab.com/sitemap.xml
+Sitemap: https://www.reddy-lab.com/sitemap.xml
