@@ -1,6 +1,6 @@
 
-# kdr400219DESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# REDDY Lab
 
-Visit **[kdr400219.github.io/REDDYlab](https://kdr400219.github.io/REDDYlab)** 🚀
+Visit **[www.reddy-lab.com](http://www.reddy-lab.com)** 🚀
 
 _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
