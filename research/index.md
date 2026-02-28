@@ -13,9 +13,7 @@ We are committed to open, ethical science. Once ready for primetime, all researc
 
 ## Highlighted
 
-{% include citation.html lookup="38106174" style="rich" %}
-
-{% include citation.html lookup="35452090" style="rich" %}
+{% include citation.html lookup="doi:10.1038/s41594-025-01652-z" style="rich" %}
 
 {% include section.html %}
 
